@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mikeynano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mikeynano/mikeynano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  -slot machine
+   -main HTML page
+    -choice of slot games based on price
+     -$1, $2, $5, $10
+    -slot machine animation
+    -slot spin button animation CSS
+     -slot cost
+    -purchase coins button
+    -
